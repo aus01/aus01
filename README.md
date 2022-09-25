@@ -1,10 +1,12 @@
-### Hi there 👋, my name is Austin
-#### Software Development Student
 ![Software Development Student](https://github.com/aus01/aus01/blob/main/myheader.png)
 
-I'm currently a software development student. I really enjoy solving problems, learning languages and science &/ engineering in general.
+# Hi there 👋, I'm Austin
+I'm currently a software development student. I really enjoy learning and exploring different languages as well as frameworks. I am interested in exploring more about Artificial Intelligence, Data Science as well as Web Development and Design in general. I work on random projects on my free time
 
-Skills: Python, Git, HTML
+## Skills
+- 🖥HTML
+- 💻 Python
+- 💻 Git
 
 - 🌱 I’m currently learning CSS & JavaScript 
 
